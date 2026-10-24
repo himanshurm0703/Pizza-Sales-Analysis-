@@ -8,9 +8,8 @@ A Power BI dashboard built on one year of pizza order data that tracks revenue, 
 
 ## Dashboard
 
-![Pizza Sales Dashboard](Dashboard.png)
+![Pizza-Sales-Dashboard](Dashboard/Dashboard.png)
 
-> Add a screenshot of your dashboard to the repo as `Dashboard.png` so it shows up here.
 
 ---
 
