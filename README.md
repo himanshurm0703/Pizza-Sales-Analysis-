@@ -21,7 +21,7 @@ A pizza restaurant needs to know what drives its sales. Without a clear view of 
 
 | Item | Detail |
 |------|--------|
-| File | `![Pizza-Sales-Dashboard](Dataset/pizza_sales)` |
+| File | ![Pizza-Sales-Dashboard](Dataset/pizza_sales) |
 | Rows | 48,620 order line items |
 | Orders | 21,350 unique orders |
 | Period | 01 Jan 2015 to 31 Dec 2015 |
